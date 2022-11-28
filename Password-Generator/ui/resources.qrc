@@ -1,0 +1,10 @@
+<RCC>
+  <qresource prefix="icons">
+    <file>icons/content_copy_white_24dp.svg</file>
+    <file>icons/lock_white_24dp.svg</file>
+    <file>icons/refresh_white_24dp.svg</file>
+    <file>icons/visibility_off_white_24dp.svg</file>
+    <file>icons/visibility_white_24dp.svg</file>
+    <file>icons/outline_key_black_24dp.png</file>
+  </qresource>
+</RCC>

@@ -2,9 +2,9 @@
 Password generation and strength utilities.
 
 This module provides:
-- Secure password generation using `secrets`
-- Shannon-style entropy estimation (bits)
-- Simple strength categories based on entropy thresholds
+(i) Secure password generation using `secrets`
+(ii) Shannon-style entropy estimation (bits)
+(iii) Simple strength categories based on entropy thresholds
 """
 
 from enum import IntEnum

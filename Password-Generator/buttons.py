@@ -5,7 +5,6 @@ UI button configuration and character sets.
 from string import ascii_lowercase, ascii_uppercase, digits, punctuation
 from enum import Enum
 
-
 class Characters(Enum):
     """
     Character groups that can be enabled in the password generator UI.
@@ -14,7 +13,6 @@ class Characters(Enum):
     btn_upper = ascii_uppercase
     btn_digits = digits
     btn_special = punctuation
-
 
 CHARACTER_NUMBER = {
     "btn_lower": len(Characters.btn_lower.value),

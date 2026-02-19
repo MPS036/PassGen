@@ -1,3 +1,0 @@
-This is a regular application that generates passwords depending on what conditions are set.
-
-At the same time, you can enter your password yourself and the application will calculate the entropy.

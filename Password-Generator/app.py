@@ -2,8 +2,8 @@
 Password Generator GUI application (PySide6).
 
 Generates passwords from selected character groups and shows:
-- Estimated entropy (bits)
-- Strength level based on entropy thresholds
+(i) Estimated entropy (bits)
+(ii) Strength level based on entropy thresholds
 """
 
 import sys

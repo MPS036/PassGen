@@ -17,3 +17,11 @@ The app generates passwords based on selected character groups and shows:
 🛠 Requirements:
 (i) Python 3.x;
 (ii) PySide6.
+
+📦 Packaging (optional)
+
+The application can be bundled into a standalone executable using tools like Nuitka or PyInstaller.
+Example (Nuitka):
+
+```bash
+nuitka --onefile --follow-imports --enable-plugin=pyside6 app.py

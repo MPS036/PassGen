@@ -1,7 +1,0 @@
-nuitka --onefile --follow-imports --enable-plugin=pyside6 --windows-disable-console --windows-icon-from-ico=ui\icons\outline_key_black_24dp.png --remove-output -o password.generator.exe app.py
-
-
-
-This nuitka command to assemble the app into a single file
-At the moment I was doing this project, nuitka was not updated for Python 3.11
-I could use PyInstaller (Auto Py to Exe), but I really wanted to use nuitka

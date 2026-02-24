@@ -3,24 +3,24 @@
 A desktop password generator built with **PySide6 (Qt)**.
 
 The app generates passwords based on selected character groups and shows:
-(i) Entropy (bits) estimation;
-(ii) Strength level based on entropy thresholds;
-(iii) Copy-to-clipboard and password visibility toggle.
+- Entropy (bits) estimation;
+- Strength level based on entropy thresholds;
+-) Copy-to-clipboard and password visibility toggle.
 
 ## ✨ Features:
-(i) Secure password generation using Python `secrets`;
-(ii) Configurable character sets (lower/upper/digits/special);
-(iii) Adjustable length (slider + spinbox);
-(iv) Entropy and strength indicators;
-(v) Copy button + show/hide password.
+- Secure password generation using Python `secrets`;
+- Configurable character sets (lower/upper/digits/special);
+- Adjustable length (slider + spinbox);
+- Entropy and strength indicators;
+- Copy button + show/hide password.
 
 ## 🛠 Requirements:
-(i) Python 3.x;
-(ii) PySide6.
+- Python 3.x;
+- PySide6.
 
 ## 📦 Packaging (optional)
 
-The application can be bundled into a standalone executable using tools like Nuitka or PyInstaller.
+- The application can be bundled into a standalone executable using tools like Nuitka or PyInstaller.
 Example (Nuitka):
 
 ```bash

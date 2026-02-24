@@ -3,8 +3,8 @@
 A desktop password generator built with **PySide6 (Qt)**.
 
 The app generates passwords based on selected character groups and shows:
-(i) **Entropy (bits)** estimation;
-(ii) **Strength level** based on entropy thresholds;
+(i) Entropy (bits) estimation;
+(ii) Strength level based on entropy thresholds;
 (iii) Copy-to-clipboard and password visibility toggle.
 
 ✨ Features:
